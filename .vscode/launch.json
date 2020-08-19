@@ -1,0 +1,462 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GaltoLitTable<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_1.GaltoLitTable",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LogicalOpTable<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_2.LogicalOpTable",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Sound<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_2.Sound",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Break2<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Break2",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Break3<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Break3",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Break4<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Break4",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Break5<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Break5",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Break6<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Break6",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Comma<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Comma",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ContDemo<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.ContDemo",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ContToLabel<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.ContToLabel",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DWDemo<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.DWDemo",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DecrFor<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.DecrFor",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Empty<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Empty",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Empty3<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Empty3",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindFac<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.FindFac",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForTest<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.ForTest",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Guess<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Guess",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Guess4<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Guess4",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Help<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Help",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Help2<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Help2",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Help3<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Help3",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KbIn<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.KbIn",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Power<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.Power",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SqrRoot<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.SqrRoot",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SwitchDemo<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.SwitchDemo",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WhileDemo<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_3.WhileDemo",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AddMeth<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_4.AddMeth",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConsDemo<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_4.ConsDemo",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DemoPwr<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_4.DemoPwr",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelpClassDemo<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_4.HelpClassDemo",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IsFact<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_4.IsFact",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ParmConsDemo<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_4.ParmConsDemo",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ParmDemo<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_4.ParmDemo",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReMeth<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_4.ReMeth",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwoVehicles<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_4.TwoVehicles",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VehConsDemo<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_4.VehConsDemo",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VehicleDemo<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_4.VehicleDemo",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ACopy<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.ACopy",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayDemo<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.ArrayDemo",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayError<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.ArrayError",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AssingARef<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.AssingARef",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bubble<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.Bubble",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForEach<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.ForEach",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForEach2<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.ForEach2",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForEachPair<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.ForEachPair",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LengthDemo<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.LengthDemo",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LowCase<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.LowCase",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinMax<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.MinMax",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinMax2<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.MinMax2",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Phone<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.Phone",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QDemo<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.QDemo",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ragged<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.Ragged",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Search<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.Search",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ShowBits<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.ShowBits",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Squares<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.Squares",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StrOps<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.StrOps",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringArrays<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.StringArrays",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringSwitch<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.StringSwitch",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubStr<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.SubStr",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwoD<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.TwoD",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UpCase<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.UpCase",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VarDemo2<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.VarDemo2",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VarDemo3<Java_ A_Beginner’s_Guide>",
+            "request": "launch",
+            "mainClass": "cap_5.VarDemo3",
+            "projectName": "Java_ A_Beginner’s_Guide"
+        }
+    ]
+}
